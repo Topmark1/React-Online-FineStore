@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Online-FineStore/static/css/main.5ab144b7.css",
+    "main.js": "/React-Online-FineStore/static/js/main.6b223b86.js",
+    "static/media/lace.png": "/React-Online-FineStore/static/media/lace.f43d11e31aca8d397b2f.png",
+    "static/media/store.jpeg": "/React-Online-FineStore/static/media/store.59442fc5770e665b08a1.jpeg",
+    "static/media/phone.jpeg": "/React-Online-FineStore/static/media/phone.cb188827427e4fbfcca0.jpeg",
+    "static/media/business.jpg": "/React-Online-FineStore/static/media/business.08dd3cd6e0485f9b9512.jpg",
+    "static/media/logo.PNG": "/React-Online-FineStore/static/media/logo.b690cfb49589cfeee75d.PNG",
+    "static/media/star.PNG": "/React-Online-FineStore/static/media/star.5ebb0192dcf45980c622.PNG",
+    "static/media/grocery.jpeg": "/React-Online-FineStore/static/media/grocery.40cdf08633fc59e99174.jpeg",
+    "static/media/accessory.jpeg": "/React-Online-FineStore/static/media/accessory.663e9136cde05facf8ee.jpeg",
+    "static/media/starred.PNG": "/React-Online-FineStore/static/media/starred.f37aa6fe0f2ee615fef7.PNG",
+    "index.html": "/React-Online-FineStore/index.html",
+    "main.5ab144b7.css.map": "/React-Online-FineStore/static/css/main.5ab144b7.css.map",
+    "main.6b223b86.js.map": "/React-Online-FineStore/static/js/main.6b223b86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab144b7.css",
+    "static/js/main.6b223b86.js"
+  ]
+}
